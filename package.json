@@ -10,8 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@stripe/stripe-react-native": "^0.21.0",
     "react": "18.1.0",
-    "react-native": "0.70.6"
+    "react-native": "0.70.6",
+    "react-native-dotenv": "^3.4.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
